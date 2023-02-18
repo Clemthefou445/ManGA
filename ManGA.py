@@ -168,7 +168,7 @@ def randomTranslation(result, q):
 
 # Here is the main function of the program, that is being called externally.
 # All parameters are initialized, and the function can be called without parameters as gradientAscent()
-def gradientAscent(initialPose=None, constrainedDimensions=[0, 0, 0, 0, 0, 0], lr=8, c=0.00001, P=False, k=5000):
+def gradientAscent(initialPose=None, constrainedDimensions=[0, 0, 0, 0, 0, 0], lr=6.5, c=0.0001, P=False, k=2000):
     global JLP
     # The global variable takes the boolean value that from user input
     JLP = P
