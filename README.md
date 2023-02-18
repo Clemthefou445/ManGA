@@ -1,7 +1,7 @@
 
 # Gradient-Based Optimizer for Kinematic Manipulability (ManGA)
 
-Implementation of the paper [Optimizing a Combined Hand-Arm System's Manipulability : A Gradient-Based Approach](https://drive.google.com/file/d/1KE3ugT1DkXgL5lhQqZhAokQqbzKXYlWY/view?usp=sharing), by Clément Gillet, 2023.
+Implementation of the paper [Optimizing a Combined Hand-Arm System's Manipulability : A Gradient-Based Approach](https://drive.google.com/file/d/1LanbvcQ474-PFUdXXaoRLolytfQugVIV/view?usp=sharing), by Clément Gillet, 2023.
 
 ## Input 
 
