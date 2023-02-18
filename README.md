@@ -11,7 +11,7 @@ Implementation of the paper [Optimizing a Combined Hand-Arm System's Manipulabil
 
 Extra : You can also input a specified configuration vector (as a python list) of 7 angles in radians within the joint limits
 
-- **constrainedDimensions** = [x,y,z,$\alpha, \beta, \gamma$] . Give a 1 to the dimensions you want to block, a 0 to the ones that should be free of constraint.
+- **constrainedDimensions** = [x,y,z,alpha, beta, gamma] . Give a 1 to the dimensions you want to block, a 0 to the ones that should be free of constraint.
 
 - **lr** = Learning Rate of Gradient Ascent. Give it any value above 0.0 .
 
