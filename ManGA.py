@@ -216,3 +216,4 @@ def gradientAscent(initialPose=None, constrainedDimensions=[0, 0, 0, 0, 0, 0], l
 
 def forwardKinematics(q):
     return robot.compute_forward_kinematics(q, "panda_link8")
+
